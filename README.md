@@ -2,7 +2,9 @@
 
 ### Newbie Backend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhockevin&label=Profile views&color=0e75b6&style=flat" alt="nhockevin" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nhockevin&label=Profile%20views&color=0e75b6&style=flat" alt="nhockevin" />
+</p>
 
 - 🔭 I'm currently working on **Backend Developer**
 
