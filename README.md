@@ -51,6 +51,10 @@
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
 </a>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nhockevin&show_icons=true&locale=en&layout=compact"
-        alt="nhockevin" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhockevin&layout=compact&theme=tokyonight"
+    alt="nhockevin" />
+</p>
+
+<br clear="both">
