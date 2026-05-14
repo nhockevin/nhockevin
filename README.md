@@ -48,13 +48,17 @@
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    alt="nextjs"
+    width="40"
+    height="40"
+  />
 </a>
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhockevin&layout=compact&theme=tokyonight"
-    alt="nhockevin" />
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nhockevin&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
-<br clear="both">
